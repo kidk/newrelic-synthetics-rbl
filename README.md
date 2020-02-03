@@ -4,7 +4,7 @@ Use this script to test a set of IP address against a list of [DNSBLs](https://e
 
 ## License & Support
 
-This project is distributed under the Apache 2 license and is provided AS-IS WITHOUT WARRANTY OR SUPPORT, although you can report issues and contribute to the project here on GitHub.
+This project is distributed under the [Apache 2 license](./LICENSE) and is provided AS-IS WITHOUT WARRANTY OR SUPPORT, although you can report issues and contribute to the project here on GitHub.
 
 Please do not report issues with this software to New Relic Global Technical Support.
 
